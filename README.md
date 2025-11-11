@@ -56,7 +56,7 @@ Ensure the following tools are installed on your machine:
 
 ### **Cloning the Repository**
 ```bash
-git clone https://github.com/Hatalabdallah/LiveDocs.git
+git clone https://github.com/abdallahddumbakato/LiveDocs.git
 cd LiveDocs
 ```
 
